@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-manufactura",
+  "version": "0.1.0",
+  "description": "stylelint config for Manufactura projects",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "manufactura"
+  ],
+  "homepage": "https://github.com/factorymn/stylelint-config-manufactura",
+  "bugs": {
+    "url": "https://github.com/factorymn/stylelint-config-manufactura/issues"
+  },
+  "license": "MIT",
+  "author": "Mitya Teryaew <mitya.teryaew@gmail.com>",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/factorymn/stylelint-config-manufactura.git"
+  }
+}
