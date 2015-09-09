@@ -16,7 +16,7 @@ module.exports = {
         "color-hex-case": [ 2, "lower" ],
         "color-hex-length": [ 2, "short" ],
         "color-no-invalid-hex": 2,
-        "comment-empty-line-before": [ 2, "always" ],
+        "comment-empty-line-before": [ 2, "never" ],
         "declaration-bang-space-after": [ 2, "never" ],
         "declaration-bang-space-before": [ 2, "always" ],
         "declaration-block-semicolon-newline-after": [ 2, "always" ],
