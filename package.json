@@ -15,7 +15,8 @@
   "author": "Mitya Teryaew <mitya.teryaew@gmail.com>",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "CHANGELOG.md"
   ],
   "repository": {
     "type": "git",
