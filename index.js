@@ -146,6 +146,7 @@ module.exports = {
             "outline-style",
             "outline-width",
             "resize",
+            "user-select",
 
             // Lists and counters properties
             "counter-increment",
@@ -284,6 +285,16 @@ module.exports = {
             "marquee-play-count",
             "marquee-speed",
             "marquee-style",
+
+            // Scrollbar properties
+            "scrollbar-3dlight-color",
+            "scrollbar-arrow-color",
+            "scrollbar-base-color",
+            "scrollbar-darkshadow-color",
+            "scrollbar-face-color",
+            "scrollbar-highlight-color",
+            "scrollbar-shadow-color",
+            "scrollbar-track-color",
 
             // Speech properties
             "mark",
