@@ -1,6 +1,6 @@
 # stylelint-config-manufactura
 
-Shareable `stylelint` config for [Manufactura](http://factory.mn) projects.
+Shareable [Stylelint](http://stylelint.io/) config for [Manufactura](http://factory.mn/) projects.
 
 ## Installation
 
