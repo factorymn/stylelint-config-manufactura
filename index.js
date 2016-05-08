@@ -332,15 +332,17 @@ module.exports = {
         "media-query-parentheses-space-inside": "never",
         "no-eol-whitespace": true,
         "no-missing-eof-newline": true,
-        "number-leading-zero": "always",
+        "number-leading-zero": "never",
         "number-no-trailing-zeros": true,
         "number-zero-length-no-unit": true,
         "property-no-vendor-prefix": true,
         "root-no-standard-properties": true,
         "rule-nested-empty-line-before": [ "always", {
-            except: ["first-nested"]
+            except: [ "first-nested" ]
         }],
-        "rule-non-nested-empty-line-before": "always-multi-line",
+        "rule-non-nested-empty-line-before": [ "always", {
+            ignore: [ "after-comment" ]
+        }],
         "selector-combinator-space-after": "always",
         "selector-combinator-space-before": "always",
         "selector-list-comma-newline-after": "always",
